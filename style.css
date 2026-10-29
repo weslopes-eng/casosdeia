@@ -35,4 +35,4 @@ pre{white-space:pre-wrap;background:var(--pre);border:1px solid var(--bd);border
 .news-bt{background:linear-gradient(120deg,#7c3aed,#db2777);padding:12px 20px;font-size:15.5px;border-radius:14px;white-space:nowrap}.news-bt:hover{filter:brightness(1.08)}
 .grid .news{margin:0;grid-column:1/-1}@media(max-width:560px){.news{padding:18px}.news-bt{width:100%;text-align:center}}
 @media(max-width:480px){nav{gap:12px}nav a.l{font-size:14px}.logo{font-size:19px}nav a.hp{display:none}}.logo{white-space:nowrap}
-footer{border-top:1px solid var(--bd);color:var(--mu);font-size:14px;padding:26px 0}footer a{color:var(--mu);margin-right:14px}
+.guias{margin:0 0 10px;padding-left:20px}.guias li{margin:4px 0}.guias a{font-weight:600}footer{border-top:1px solid var(--bd);color:var(--mu);font-size:14px;padding:26px 0}footer a{color:var(--mu);margin-right:14px}
